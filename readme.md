@@ -1,7 +1,7 @@
 
 # Embeddable Form Filler Widget
 
-When you give your product to testers or other teams in your organisation, we also need to provide all the sandboxed credentials and they need to fill in all the details which makes the process repetitive and boring. This is where our filler widget comes to rescue. Once configuring filler widget with the form credentials, with just a button click the form can be autofilled.
+The Auto-Fill Form Filler Widget is a powerful tool designed to streamline the process of filling out forms. By automatically populating fields in under 2 seconds, this widget significantly reduces manual data entry time by up to 80%.
 
 
 
